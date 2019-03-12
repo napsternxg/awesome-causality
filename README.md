@@ -32,22 +32,22 @@ These list contain a more focused compilation of algorithms and data related to 
 * [awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
 
 # Data
-* [Amazon Review Sales](https://github.com/rguo12/CIKM18-LCVA) [Google drive](https://drive.google.com/drive/u/1/folders/1Ff_GdfjhrDFbZiRW0z81lGJW-cUrYmo1) [Paper](https://arxiv.org/abs/1808.03333)
-* [Jobs Training](http://users.nber.org/~rdehejia/data/nswdata2.html) - [Train](http://www.fredjo.com/files/jobs_DW_bin.train.npz) [Test](http://www.fredjo.com/files/jobs_DW_bin.test.npz) [Paper](http://proceedings.mlr.press/v70/shalit17a.html)
+* [Amazon Review Sales](https://github.com/rguo12/CIKM18-LCVA) - [Google drive](https://drive.google.com/drive/u/1/folders/1Ff_GdfjhrDFbZiRW0z81lGJW-cUrYmo1) - [Paper](https://arxiv.org/abs/1808.03333)
+* [Jobs Training](http://users.nber.org/~rdehejia/data/nswdata2.html) - [Train](http://www.fredjo.com/files/jobs_DW_bin.train.npz) [Test](http://www.fredjo.com/files/jobs_DW_bin.test.npz) - [Paper](http://proceedings.mlr.press/v70/shalit17a.html)
 * [Twins](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/TWINS)
 * [Synthetic IHDP](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/IHDP)
 * [2016 Atlantic Causal Inference competition](https://github.com/vdorie/aciccomp/tree/master/2016)
 * [News trearment effect measurement](http://www.fredjo.com/files/NEWS_csv.zip)
 * [Cause effect pairs](http://webdav.tuebingen.mpg.de/cause-effect/)
-* [Movie recommendations - Missing not at random (MNAR)](http://www.cs.cornell.edu/~schnabts/mnar/index.html) [Paper](http://proceedings.mlr.press/v48/schnabel16.html)
-* [CHALEARN Fast Causation Coefficient Challenge](http://www.causality.inf.ethz.ch/cause-effect.php?page=rules) [Kaggle](https://www.kaggle.com/c/cause-effect-pairs#description)
+* [Movie recommendations - Missing not at random (MNAR)](http://www.cs.cornell.edu/~schnabts/mnar/index.html) - [Paper](http://proceedings.mlr.press/v48/schnabel16.html)
+* [CHALEARN Fast Causation Coefficient Challenge](http://www.causality.inf.ethz.ch/cause-effect.php?page=rules) - [Kaggle](https://www.kaggle.com/c/cause-effect-pairs#description)
 * [Causal inference datasets in quantitative social sciences](https://github.com/kosukeimai/qss)
 
 # Tools
 
 * [Counter factual regression](https://github.com/clinicalml/cfrnet) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [DoWhy - Microsoft Research](https://github.com/Microsoft/dowhy) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
-* [Quantitative Social Science](https://github.com/kosukeimai/qss-package) [Book](https://github.com/kosukeimai/qss) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
+* [Quantitative Social Science](https://github.com/kosukeimai/qss-package) - [Book](https://github.com/kosukeimai/qss) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causal Inference using Bayesian Additive Regression Trees](https://github.com/vdorie/bartCause) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Non-parametrics for Causal Inference](https://github.com/vdorie/npci) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causality by author of Causal Data Science Series (see blogs)](https://github.com/akelleh/causality) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
@@ -64,14 +64,14 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Joris Mooij ML2 Causality](https://web.archive.org/web/20190312053009/https://drive.google.com/file/d/0B2DZf1QHTotxX2RiNXJ0NUwwekk/edit)
 * [Emre Kiciman - Observational Studies in Social Media (OSSM) at ICWSM 2017](https://web.archive.org/web/20180830204832/http://kiciman.org/wp-content/uploads/2016/06/tutorial_kiciman_ossm17.pdf)
 * [The Blessings of Multiple Causes: A Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
-* [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
+* [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) - [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
 
 
 
 ## Blogs, and Articles
 
 * [Causal Data Science Series](https://medium.com/causal-data-science/causal-data-science-721ed63a4027)
-* [Ferenc Huszár Series on Causal Modelling: various parts](https://www.inference.vc/) [1](https://www.inference.vc/untitled/) [2](https://www.inference.vc/blessings-of-multiple-causes-causal-inference-when-you-cant-measure-confounders/) [3](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/) [4](https://www.inference.vc/causal-inference-3-counterfactuals/)
+* [Ferenc Huszár Series on Causal Modelling: various parts](https://www.inference.vc/) - [1](https://www.inference.vc/untitled/), [2](https://www.inference.vc/blessings-of-multiple-causes-causal-inference-when-you-cant-measure-confounders/), [3](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/), [4](https://www.inference.vc/causal-inference-3-counterfactuals/)
 * [Diving deeper into causality Pearl, Kleinberg, Hill and untested assumptions](https://yanirseroussi.com/2016/05/15/diving-deeper-into-causality-pearl-kleinberg-hill-and-untested-assumptions/)
 * [Simpson's Paradox: An Anatomy](http://bayes.cs.ucla.edu/R264.pdf)
 * [Simpson’s paradox and causal inference with observational data](https://roamanalytics.com/2017/09/08/simpsons-paradox-and-causal-inference-with-observational-data/)
