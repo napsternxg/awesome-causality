@@ -76,6 +76,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Simpson's Paradox: An Anatomy](http://bayes.cs.ucla.edu/R264.pdf)
 * [Simpson’s paradox and causal inference with observational data](https://roamanalytics.com/2017/09/08/simpsons-paradox-and-causal-inference-with-observational-data/)
 * [Causation and Correlation - Talks about possible causes for observed correlations](https://kunalmenda.com/2019/02/21/causation-and-correlation/)
+* [(Non-)Identification in Latent Confounder Models](http://www.alexdamour.com/blog/public/2018/05/18/non-identification-in-latent-confounder-models/)
 
 ## Books
 
@@ -113,5 +114,6 @@ These list contain a more focused compilation of algorithms and data related to 
 # Miscellaneous 
 
 * [Causal Inference Reading list](https://yanirseroussi.com/causal-inference-reading-list/)
+* [Causal inference paper reading list](https://web.archive.org/web/20190312230219/https://www.reddit.com/r/MachineLearning/comments/8lti7g/d_ml_beyond_curve_fitting_introduction_to_causal/dzipydw/)
 
 
