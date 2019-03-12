@@ -68,11 +68,12 @@ These list contain a more focused compilation of algorithms and data related to 
 
 
 
-## Blogs
+## Blogs, and Articles
 
 * [Causal Data Science Series](https://medium.com/causal-data-science/causal-data-science-721ed63a4027)
 * [Ferenc Huszár Series on Causal Modelling: various parts](https://www.inference.vc/) [1](https://www.inference.vc/untitled/) [2](https://www.inference.vc/blessings-of-multiple-causes-causal-inference-when-you-cant-measure-confounders/) [3](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/) [4](https://www.inference.vc/causal-inference-3-counterfactuals/)
 * [Diving deeper into causality Pearl, Kleinberg, Hill and untested assumptions](https://yanirseroussi.com/2016/05/15/diving-deeper-into-causality-pearl-kleinberg-hill-and-untested-assumptions/)
+* [Simpson's Paradox: An Anatomy](http://bayes.cs.ucla.edu/R264.pdf)
 
 ## Books
 
