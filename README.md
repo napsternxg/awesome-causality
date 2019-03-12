@@ -75,6 +75,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Diving deeper into causality Pearl, Kleinberg, Hill and untested assumptions](https://yanirseroussi.com/2016/05/15/diving-deeper-into-causality-pearl-kleinberg-hill-and-untested-assumptions/)
 * [Simpson's Paradox: An Anatomy](http://bayes.cs.ucla.edu/R264.pdf)
 * [Simpson’s paradox and causal inference with observational data](https://roamanalytics.com/2017/09/08/simpsons-paradox-and-causal-inference-with-observational-data/)
+* [Causation and Correlation - Talks about possible causes for observed correlations](https://kunalmenda.com/2019/02/21/causation-and-correlation/)
 
 ## Books
 
