@@ -74,6 +74,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Ferenc Huszár Series on Causal Modelling: various parts](https://www.inference.vc/) [1](https://www.inference.vc/untitled/) [2](https://www.inference.vc/blessings-of-multiple-causes-causal-inference-when-you-cant-measure-confounders/) [3](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/) [4](https://www.inference.vc/causal-inference-3-counterfactuals/)
 * [Diving deeper into causality Pearl, Kleinberg, Hill and untested assumptions](https://yanirseroussi.com/2016/05/15/diving-deeper-into-causality-pearl-kleinberg-hill-and-untested-assumptions/)
 * [Simpson's Paradox: An Anatomy](http://bayes.cs.ucla.edu/R264.pdf)
+* [Simpson’s paradox and causal inference with observational data](https://roamanalytics.com/2017/09/08/simpsons-paradox-and-causal-inference-with-observational-data/)
 
 ## Books
 
