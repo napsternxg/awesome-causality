@@ -1,8 +1,30 @@
 # Awesome Causality
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Resources related to causality.
 This awesome list is different from other lists as it tries to compile major resources related to causality in one place under different categories. 
 
 **NOTE:** This awesome list is still new and under development. Please feel free to contribute, before it can become worth sharing. 
+
+- [Awesome Causality](#awesome-causality)
+  * [Other Awesome lists](#other-awesome-lists)
+  * [Data](#data)
+  * [Tools](#tools)
+  * [Learning resources](#learning-resources)
+    + [Tutorials](#tutorials)
+    + [Blogs](#blogs)
+    + [Books](#books)
+    + [Courses](#courses)
+    + [Videos](#videos)
+  * [Events](#events)
+    + [Workshops](#workshops)
+- [Communities, and Mailing lists](#communities--and-mailing-lists)
+  * [Miscellaneous](#miscellaneous)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Other Awesome lists
 These list contain a more focused compilation of algorithms and data related to causality under more specific categories. 
@@ -32,7 +54,10 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causality by author of Causal Data Science Series (see blogs)](https://github.com/akelleh/causality) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [InvariantCausalPrediction: Invariant Causal Prediction](https://cran.r-project.org/web/packages/InvariantCausalPrediction/index.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 
-## Tutorials
+
+## Learning resources
+
+### Tutorials
 
 * [ICML 2016 Tutorial Causal Inference for Observational Studies](https://cs.nyu.edu/~shalit/tutorial.html)
 * [KDD 2018 Causal Inference Tutorial](https://causalinference.gitlab.io/kdd-tutorial/)
@@ -42,7 +67,6 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
 
 
-## Learning resources
 
 ### Blogs
 
