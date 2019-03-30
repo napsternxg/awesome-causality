@@ -77,6 +77,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Simpson’s paradox and causal inference with observational data](https://roamanalytics.com/2017/09/08/simpsons-paradox-and-causal-inference-with-observational-data/)
 * [Causation and Correlation - Talks about possible causes for observed correlations](https://kunalmenda.com/2019/02/21/causation-and-correlation/)
 * [(Non-)Identification in Latent Confounder Models](http://www.alexdamour.com/blog/public/2018/05/18/non-identification-in-latent-confounder-models/)
+* [Causal Inference Animated Plots - Good explanation of various causal inference methods](http://nickchk.com/causalgraphs.html)
 
 ## Books
 
@@ -84,6 +85,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Inference in statistics: A primer](http://bayes.cs.ucla.edu/PRIMER/)
 * [Elements of Causal Inference - Foundations and Learning Algorithms (includes code examples in R and Jupyter notebooks)](http://web.math.ku.dk/~peters/elements.html)
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/)
+* [Causal Inference Mixtape](http://scunning.com/mixtape.html)
 
 ## Courses 
 
