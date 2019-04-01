@@ -78,6 +78,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causation and Correlation - Talks about possible causes for observed correlations](https://kunalmenda.com/2019/02/21/causation-and-correlation/)
 * [(Non-)Identification in Latent Confounder Models](http://www.alexdamour.com/blog/public/2018/05/18/non-identification-in-latent-confounder-models/)
 * [Causal Inference Animated Plots - Good explanation of various causal inference methods](http://nickchk.com/causalgraphs.html)
+* [Explanation, prediction, and causality: Three sides of the same coin?](https://osf.io/u6vz5/)
 
 ## Books
 
