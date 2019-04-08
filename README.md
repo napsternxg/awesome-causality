@@ -65,7 +65,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Emre Kiciman - Observational Studies in Social Media (OSSM) at ICWSM 2017](https://web.archive.org/web/20180830204832/http://kiciman.org/wp-content/uploads/2016/06/tutorial_kiciman_ossm17.pdf)
 * [The Blessings of Multiple Causes: A Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
 * [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) - [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
-
+* [Ferenc Huszár Causal Inference Practical from MLSS Africa 2019](https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=h2zDcSPqYuAa) - [\[Notebook Runthrough\]](https://www.youtube.com/watch?v=evmGGusk6gg) [\[Video 1\]](https://www.youtube.com/watch?v=HOgx_SBBzn0) [\[Video 2\]](https://www.youtube.com/watch?v=_RtxTpOb8e4) 
 
 
 ## Blogs, and Articles
