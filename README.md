@@ -80,6 +80,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [(Non-)Identification in Latent Confounder Models](http://www.alexdamour.com/blog/public/2018/05/18/non-identification-in-latent-confounder-models/)
 * [Causal Inference Animated Plots - Good explanation of various causal inference methods](http://nickchk.com/causalgraphs.html)
 * [Explanation, prediction, and causality: Three sides of the same coin?](https://osf.io/u6vz5/)
+* [A chill intro to causal inference via propensity scores](https://osf.io/preprints/socarxiv/ncvqs/)
 
 ## Books
 
