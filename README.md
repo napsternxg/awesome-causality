@@ -54,6 +54,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [InvariantCausalPrediction: Invariant Causal Prediction](https://cran.r-project.org/web/packages/InvariantCausalPrediction/index.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causal Discovery Toolbox](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [Daggity - Create causal graphs](http://www.dagitty.net/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 
 
 # Learning resources
