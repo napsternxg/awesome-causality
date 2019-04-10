@@ -55,6 +55,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Discovery Toolbox](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [Daggity - Create causal graphs](http://www.dagitty.net/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
+* [TETRAD](http://www.phil.cmu.edu/projects/tetrad/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/java.svg" />
 
 
 # Learning resources
