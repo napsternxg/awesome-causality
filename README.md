@@ -105,6 +105,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [PyData LA 2018 Keynote: Judea Pearl - The New Science of Cause and Effect](https://www.youtube.com/watch?v=ZaPV1OSEpHw)
 * [CACM Mar. 2019 - The Seven Tools of Causal Inference](https://www.youtube.com/watch?v=CsMV5o3hotY)
 * [ACM Turing Award Lecture 2011 - Judea Pearl](https://amturing.acm.org/vp/pearl_2658896.cfm)
+* [Leon Bottou - Learning representations using causal invariance](https://www.facebook.com/iclr.cc/videos/534780673594799/)
 
 # Events
 
