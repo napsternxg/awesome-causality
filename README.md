@@ -92,6 +92,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Elements of Causal Inference - Foundations and Learning Algorithms (includes code examples in R and Jupyter notebooks)](http://web.math.ku.dk/~peters/elements.html)
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/)
 * [Causal Inference Mixtape](http://scunning.com/mixtape.html)
+* [Elements of Causal Inference - Foundations and Learning Algorithms](https://mitpress.mit.edu/books/elements-causal-inference)
 
 ## Courses 
 
