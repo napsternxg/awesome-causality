@@ -100,6 +100,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Inference: prediction, explanation, and intervention](http://www.skleinberg.org/teaching/CI18/index.html)
 * [Causal Inference Experiments Short Course](http://www.macartan.nyc/experiment/short-course/)
 * [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) [\[github\]](https://github.com/NickCH-K/introcausality)
+* [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-a-computational-approach-to-causality-and-living-systems-from-networks-to-cells-2018/)
 
 ## Videos
 
