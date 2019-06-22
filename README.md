@@ -70,6 +70,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [The Blessings of Multiple Causes: A Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
 * [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) - [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
 * [Ferenc Huszár Causal Inference Practical from MLSS Africa 2019](https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=h2zDcSPqYuAa) - [\[Notebook Runthrough\]](https://www.youtube.com/watch?v=evmGGusk6gg) [\[Video 1\]](https://www.youtube.com/watch?v=HOgx_SBBzn0) [\[Video 2\]](https://www.youtube.com/watch?v=_RtxTpOb8e4) 
+* [Causality notes and implementation in Python using statsmodels and networkX](https://github.com/ericmjl/causality)
 
 
 ## Blogs, and Articles
@@ -101,6 +102,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Inference Experiments Short Course](http://www.macartan.nyc/experiment/short-course/)
 * [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) [\[github\]](https://github.com/NickCH-K/introcausality)
 * [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-a-computational-approach-to-causality-and-living-systems-from-networks-to-cells-2018/)
+* [Four Lectures on Causality by Jonas Peters](https://www.youtube.com/playlist?list=PLW01hpWnEtbTcuY0a0jhZyanHX3GPImAy)
 
 ## Videos
 
