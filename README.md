@@ -103,6 +103,11 @@ These list contain a more focused compilation of algorithms and data related to 
 * [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) [\[github\]](https://github.com/NickCH-K/introcausality)
 * [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-a-computational-approach-to-causality-and-living-systems-from-networks-to-cells-2018/)
 * [Four Lectures on Causality by Jonas Peters](https://www.youtube.com/playlist?list=PLW01hpWnEtbTcuY0a0jhZyanHX3GPImAy)
+* [Julian Schuessler's Causal Graphs Seminar - Winner of 2019 American Statistics Association Causality in Statistics Education Award](http://www.julianschuessler.net/graphs2018.html)
+* [Ilya Shpitser's course on Causal Inference (Zip file) - Winner of 2017 American Statistics Association Causality in Statistics Education Award](https://www.amstat.org/asa/files/zipfiles/Causality-ShpitserMaterials.zip)
+* [Arvid Sjölander's course on Causal Inference (Zip file) - Winner of 2016 American Statistics Association Causality in Statistics Education Award](https://ww2.amstat.org/misc/causaliity/Sjolander-Supplemental.zip)
+* [Onyebuchi A. Arah course on Causality in Statistics (Dropbox folder) - Winner of 2016 American Statistics Association Causality in Statistics Education Award](https://www.dropbox.com/sh/mzuy3bewepwunye/AACn-zaBRAGMvxO-TVtCxH9Ba?dl=0)
+
 
 ## Videos
 
@@ -129,5 +134,5 @@ These list contain a more focused compilation of algorithms and data related to 
 
 * [Causal Inference Reading list](https://yanirseroussi.com/causal-inference-reading-list/)
 * [Causal inference paper reading list](https://web.archive.org/web/20190312230219/https://www.reddit.com/r/MachineLearning/comments/8lti7g/d_ml_beyond_curve_fitting_introduction_to_causal/dzipydw/)
-
+* [American Statistics Association Causality in Statistics Education Award](https://www.amstat.org/ASA/Your-Career/Awards/Causality-in-Statistics-Education-Award.aspx)
 
