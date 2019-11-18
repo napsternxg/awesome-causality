@@ -95,6 +95,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/)
 * [Causal Inference Mixtape](http://scunning.com/mixtape.html)
 * [Elements of Causal Inference - Foundations and Learning Algorithms](https://mitpress.mit.edu/books/elements-causal-inference)
+* [Actual Causality By Joseph Y. Halpern](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)
 
 ## Courses 
 
