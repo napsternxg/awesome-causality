@@ -88,6 +88,7 @@ or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-ha
 * [Explanation, prediction, and causality: Three sides of the same coin?](https://osf.io/u6vz5/)
 * [A chill intro to causal inference via propensity scores](https://osf.io/preprints/socarxiv/ncvqs/)
 * [All the DAGs from Hernan and Robins' Causal Inference Book by Sam Finlayson](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/) - [Causal Inference Book Part I -- Glossary and Notes](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-Glossary-and-Notes/)
+* [Causal Inference with Bayes Rule by Gradient Institute](https://gradientinstitute.org/blog/6/)
 
 ## Books
 
