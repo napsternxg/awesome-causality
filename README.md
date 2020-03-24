@@ -100,6 +100,8 @@ or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-ha
 * [Causal Inference Mixtape](http://scunning.com/mixtape.html)
 * [Elements of Causal Inference - Foundations and Learning Algorithms](https://mitpress.mit.edu/books/elements-causal-inference)
 * [Actual Causality By Joseph Y. Halpern](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)
+* [Causal Reasoning: Fundamentals and Machine Learning Applications by Emre Kiciman and Amit Sharma ](https://causalinference.gitlab.io/)
+
 
 ## Courses 
 
