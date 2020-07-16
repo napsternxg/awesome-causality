@@ -73,8 +73,8 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Ferenc Huszár Causal Inference Practical from MLSS Africa 2019](https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=h2zDcSPqYuAa) - [\[Notebook Runthrough\]](https://www.youtube.com/watch?v=evmGGusk6gg) [\[Video 1\]](https://www.youtube.com/watch?v=HOgx_SBBzn0) [\[Video 2\]](https://www.youtube.com/watch?v=_RtxTpOb8e4) 
 * [Causality notes and implementation in Python using statsmodels and networkX](https://github.com/ericmjl/causality)
 * [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://journals.sagepub.com/doi/10.1177/2515245917745629)
-* [The Hitchhiker’s Guide to the tlverse
-or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-handbook/)
+* [The Hitchhiker’s Guide to the tlverse or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-handbook/)
+* [Causal Inference for The Brave and True](https://github.com/matheusfacure/python-causality-handbook)
 
 ## Blogs, and Articles
 
