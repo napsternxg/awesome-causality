@@ -124,6 +124,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [CACM Mar. 2019 - The Seven Tools of Causal Inference](https://www.youtube.com/watch?v=CsMV5o3hotY)
 * [ACM Turing Award Lecture 2011 - Judea Pearl](https://amturing.acm.org/vp/pearl_2658896.cfm)
 * [Leon Bottou - Learning representations using causal invariance](https://www.facebook.com/iclr.cc/videos/534780673594799/)
+* [Online Causal Inference Seminar](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 
 # Events
 
