@@ -91,6 +91,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [All the DAGs from Hernan and Robins' Causal Inference Book by Sam Finlayson](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/) - [Causal Inference Book Part I -- Glossary and Notes](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-Glossary-and-Notes/)
 * [Causal Inference with Bayes Rule by Gradient Institute](https://gradientinstitute.org/blog/6/)
 * [Causal Inference cheat sheet for data scientists](http://nc233.com/2020/04/causal-inference-cheat-sheet-for-data-scientists/)
+* [Which causal inference book you should read](https://www.bradyneal.com/which-causal-inference-book)
 
 ## Books
 
