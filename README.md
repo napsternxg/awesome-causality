@@ -117,6 +117,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Arvid Sjölander's course on Causal Inference (Zip file) - Winner of 2016 American Statistics Association Causality in Statistics Education Award](https://ww2.amstat.org/misc/causaliity/Sjolander-Supplemental.zip)
 * [Onyebuchi A. Arah course on Causality in Statistics (Dropbox folder) - Winner of 2016 American Statistics Association Causality in Statistics Education Award](https://www.dropbox.com/sh/mzuy3bewepwunye/AACn-zaBRAGMvxO-TVtCxH9Ba?dl=0)
 * [Introduction to causal inference by Maya L. Petersen & Laura B. Balzer](https://www.ucbbiostat.com/labs)
+* [Introduction to Causal Inference by Brady Neal](https://www.bradyneal.com/causal-inference-course)
 
 ## Videos
 
