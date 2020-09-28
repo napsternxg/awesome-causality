@@ -52,8 +52,8 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Non-parametrics for Causal Inference](https://github.com/vdorie/npci) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causality by author of Causal Data Science Series (see blogs)](https://github.com/akelleh/causality) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [InvariantCausalPrediction: Invariant Causal Prediction](https://cran.r-project.org/web/packages/InvariantCausalPrediction/index.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
-* [Causal Discovery Toolbox](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
-* [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" /> 
 * [Daggity - Create causal graphs](http://www.dagitty.net/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [TETRAD](http://www.phil.cmu.edu/projects/tetrad/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/java.svg" />
 * [ProbLog - Do-calculus](https://dtai.cs.kuleuven.be/problog/tutorial/various/14_robot_key.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
