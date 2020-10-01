@@ -44,8 +44,13 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal inference datasets in quantitative social sciences](https://github.com/kosukeimai/qss)
 
 # Tools
-
-* [Counter factual regression](https://github.com/clinicalml/cfrnet) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [Omega: Causal, Higher-Order, Probabilistic Programming](http://www.zenna.org/Omega.jl/latest/) <img height="16" width="16" color="blue" src="https://julialang.org/assets/infra/logo.svg" />
+* [Pyro: A probabilistic programming language built on PyTorch that contains the do() operator](https://pyro.ai) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [Whittemore: Causal Programming in Clojure](https://github.com/jtcbrule/whittemore) <img height="16" width="16" color="blue" src="https://julialang.org/assets/infra/logo.svg" />
+* [causaleffect: Functions for identification and transportation of causal effects](https://www.rdocumentation.org/packages/causaleffect) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
+* [pgmpy: Probabilistic Graphical Models in python, extended to causal queries](https://pgmpy.org/inference.html#causal-inference) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [pyagrum: a GRaphical Universal Modeler with causal examples from the Book of Why](https://agrum.gitlab.io/pages/pyagrum.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
+* [Counterfactual regression](https://github.com/clinicalml/cfrnet) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [DoWhy - Microsoft Research](https://github.com/Microsoft/dowhy) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [Quantitative Social Science](https://github.com/kosukeimai/qss-package) - [Book](https://github.com/kosukeimai/qss) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causal Inference using Bayesian Additive Regression Trees](https://github.com/vdorie/bartCause) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
