@@ -64,6 +64,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [ProbLog - Do-calculus](https://dtai.cs.kuleuven.be/problog/tutorial/various/14_robot_key.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [Causalnex - A toolkit for causal reasoning with Bayesian Networks](https://github.com/quantumblacklabs/causalnex)
 * [Causal Fusion - A web based app for drawing and making inference via do-calculus on causal diagrams](https://causalfusion.net/app)
+* [DiCE - Generate Diverse Counterfactual Explanations for any machine learning model](https://github.com/interpretml/dice)
 
 # Learning resources
 
