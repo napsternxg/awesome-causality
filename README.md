@@ -110,6 +110,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Elements of Causal Inference - Foundations and Learning Algorithms](https://mitpress.mit.edu/books/elements-causal-inference)
 * [Actual Causality By Joseph Y. Halpern](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)
 * [Causal Reasoning: Fundamentals and Machine Learning Applications by Emre Kiciman and Amit Sharma](https://causalinference.gitlab.io/)
+* [The Effect: An Introduction to Research Design and Causality](https://nickchk.com/causalitybook.html)
 
 
 ## Courses 
