@@ -106,7 +106,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Inference in statistics: A primer](http://bayes.cs.ucla.edu/PRIMER/)
 * [Elements of Causal Inference - Foundations and Learning Algorithms (includes code examples in R and Jupyter notebooks)](http://web.math.ku.dk/~peters/elements.html)
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/)
-* [Causal Inference Mixtape](http://scunning.com/mixtape.html) - [R code](https://github.com/scunning1975/mixtape_learnr) [Python code](https://github.com/tomcaputo/mixtape_learnr/tree/main/Python)
+* [Causal Inference Mixtape](http://scunning.com/mixtape.html) - [[R code](https://github.com/scunning1975/mixtape_learnr)] [[Python code](https://github.com/tomcaputo/mixtape_learnr/tree/main/Python)]
 * [Elements of Causal Inference - Foundations and Learning Algorithms](https://mitpress.mit.edu/books/elements-causal-inference)
 * [Actual Causality By Joseph Y. Halpern](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)
 * [Causal Reasoning: Fundamentals and Machine Learning Applications by Emre Kiciman and Amit Sharma](https://causalinference.gitlab.io/)
