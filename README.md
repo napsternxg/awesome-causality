@@ -4,9 +4,9 @@
 [![License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Resources related to causality.
-This awesome list is different from other lists as it tries to compile major resources related to causality in one place under different categories. 
+This awesome list is different from other lists as it tries to compile major resources related to causality in one place under different categories.
 
-**NOTE:** This awesome list is still new and under development. Please feel free to contribute, before it can become worth sharing. 
+**NOTE:** This awesome list is still new and under development. Please feel free to contribute, before it can become worth sharing.
 
 - [Awesome Causality](#awesome-causality)
   * [Other Awesome lists](#other-awesome-lists)
@@ -26,7 +26,7 @@ This awesome list is different from other lists as it tries to compile major res
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Other Awesome lists
-These list contain a more focused compilation of algorithms and data related to causality under more specific categories. 
+These list contain a more focused compilation of algorithms and data related to causality under more specific categories.
 
 * [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 * [awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
@@ -58,7 +58,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causality by author of Causal Data Science Series (see blogs)](https://github.com/akelleh/causality) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
 * [InvariantCausalPrediction: Invariant Causal Prediction](https://cran.r-project.org/web/packages/InvariantCausalPrediction/index.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
-* [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" /> 
+* [CausalImpact - causal inference in time series](https://google.github.io/CausalImpact/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [Daggity - Create causal graphs](http://www.dagitty.net/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/r.svg" />
 * [TETRAD](http://www.phil.cmu.edu/projects/tetrad/) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/java.svg" />
 * [ProbLog - Do-calculus](https://dtai.cs.kuleuven.be/problog/tutorial/various/14_robot_key.html) <img height="16" width="16" color="blue" src="https://unpkg.com/simple-icons@latest/icons/python.svg" />
@@ -76,7 +76,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Emre Kiciman - Observational Studies in Social Media (OSSM) at ICWSM 2017](https://web.archive.org/web/20180830204832/http://kiciman.org/wp-content/uploads/2016/06/tutorial_kiciman_ossm17.pdf)
 * [The Blessings of Multiple Causes: A Tutorial](https://github.com/blei-lab/deconfounder_tutorial)
 * [Susan Athey: Counterfactual Inference (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=yKs6msnw9m8) - [Slides](https://web.archive.org/web/20181214003957/https://media.neurips.cc/Conferences/NIPS2018/Slides/Counterfactual_Inference.pdf)
-* [Ferenc Huszár Causal Inference Practical from MLSS Africa 2019](https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=h2zDcSPqYuAa) - [\[Notebook Runthrough\]](https://www.youtube.com/watch?v=evmGGusk6gg) [\[Video 1\]](https://www.youtube.com/watch?v=HOgx_SBBzn0) [\[Video 2\]](https://www.youtube.com/watch?v=_RtxTpOb8e4) 
+* [Ferenc Huszár Causal Inference Practical from MLSS Africa 2019](https://colab.research.google.com/drive/1rjjjA7teiZVHJCMTVD8KlZNu3EjS7Dmu#scrollTo=h2zDcSPqYuAa) - [\[Notebook Runthrough\]](https://www.youtube.com/watch?v=evmGGusk6gg) [\[Video 1\]](https://www.youtube.com/watch?v=HOgx_SBBzn0) [\[Video 2\]](https://www.youtube.com/watch?v=_RtxTpOb8e4)
 * [Causality notes and implementation in Python using statsmodels and networkX](https://github.com/ericmjl/causality)
 * [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data](https://journals.sagepub.com/doi/10.1177/2515245917745629)
 * [The Hitchhiker’s Guide to the tlverse or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-handbook/)
@@ -113,7 +113,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [The Effect: An Introduction to Research Design and Causality](https://nickchk.com/causalitybook.html)
 
 
-## Courses 
+## Courses
 
 * [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your-conclusions)
 * [Causal Inference: prediction, explanation, and intervention](http://www.skleinberg.org/teaching/CI18/index.html)
@@ -135,10 +135,11 @@ These list contain a more focused compilation of algorithms and data related to 
 * [ACM Turing Award Lecture 2011 - Judea Pearl](https://amturing.acm.org/vp/pearl_2658896.cfm)
 * [Leon Bottou - Learning representations using causal invariance](https://www.facebook.com/iclr.cc/videos/534780673594799/)
 * [Online Causal Inference Seminar](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
+* [NeurIPS 2020 Workshop: Causal Discovery and Causality-Inspired Machine Learning](https://nips.cc/virtual/2020/protected/workshop_16110.html)
 
 # Events
 
-## Workshops 
+## Workshops
 * [Beyond Curve Fitting: Causation, Counterfactuals, and Imagination-based AI](https://why19.causalai.net/#)
 * [Causality Challenge #1: Causation and Prediction](http://www.causality.inf.ethz.ch/challenge.php)
 * [NIPS 2013 Workshop on Causality](http://clopinet.com/isabelle/Projects/NIPS2013/)
@@ -150,7 +151,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causality Challenge Google group](https://groups.google.com/forum/#!forum/causalitychallenge)
 
 
-# Miscellaneous 
+# Miscellaneous
 
 * [Causal Inference Reading list](https://yanirseroussi.com/causal-inference-reading-list/)
 * [Causal inference paper reading list](https://web.archive.org/web/20190312230219/https://www.reddit.com/r/MachineLearning/comments/8lti7g/d_ml_beyond_curve_fitting_introduction_to_causal/dzipydw/)
