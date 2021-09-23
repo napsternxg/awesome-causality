@@ -65,6 +65,8 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causalnex - A toolkit for causal reasoning with Bayesian Networks](https://github.com/quantumblacklabs/causalnex)
 * [Causal Fusion - A web based app for drawing and making inference via do-calculus on causal diagrams](https://causalfusion.net/app)
 * [DiCE - Generate Diverse Counterfactual Explanations for any machine learning model](https://github.com/interpretml/dice)
+* [CCD Causal Software suite](https://www.ccd.pitt.edu/tools/)
+* [The TETRAD Project - searching for causal explanations of data](https://github.com/cmu-phil/tetrad)
 
 # Learning resources
 
