@@ -114,6 +114,8 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Actual Causality By Joseph Y. Halpern](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)
 * [Causal Reasoning: Fundamentals and Machine Learning Applications by Emre Kiciman and Amit Sharma](https://causalinference.gitlab.io/)
 * [The Effect: An Introduction to Research Design and Causality](https://nickchk.com/causalitybook.html)
+* [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/)
+* [Bayesuvius: a visual dictionary of Bayesian Networks and Causal Inference](https://www.ar-tiste.com/bayesuvius.html) - [github](https://github.com/rrtucci/Bayesuvius/)
 
 
 ## Courses
