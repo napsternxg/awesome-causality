@@ -103,6 +103,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Tweetorial on going from regression to estimating causal effects with machine learning](https://twitter.com/WomenInStat/status/1321595413573464064)
 * [Causal Inference in AI Education: A Primer](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf) - Accompanying Tool [Learn.CI](https://learn.ci/)
 * [The Effect: An Introduction to Research Design and Causality](https://www.theeffectbook.net/index.html)
+* [A causal look into the factors of world happiness (Kaggle dataset) [0-Causal Graphs]](https://economyoftime.net/a-causal-look-into-the-factors-of-world-happiness-0-causal-graphs-b8f4dd1f13c3)
 
 ## Books
 
