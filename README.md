@@ -118,6 +118,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/)
 * [Bayesuvius: a visual dictionary of Bayesian Networks and Causal Inference](https://www.ar-tiste.com/bayesuvius.html) - [github](https://github.com/rrtucci/Bayesuvius/)
 * [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science) - [github](https://github.com/aleixrvr/CausalInference4DataScience)
+* [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - [github](https://github.com/robertness)
 
 ## Courses
 
