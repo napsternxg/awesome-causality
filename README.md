@@ -67,6 +67,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [DiCE - Generate Diverse Counterfactual Explanations for any machine learning model](https://github.com/interpretml/dice)
 * [CCD Causal Software suite](https://www.ccd.pitt.edu/tools/)
 * [The TETRAD Project - searching for causal explanations of data](https://github.com/cmu-phil/tetrad)
+* [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
 
 # Learning resources
 
@@ -144,6 +145,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Leon Bottou - Learning representations using causal invariance](https://www.facebook.com/iclr.cc/videos/534780673594799/)
 * [Online Causal Inference Seminar](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 * [NeurIPS 2020 Workshop: Causal Discovery and Causality-Inspired Machine Learning](https://nips.cc/virtual/2020/protected/workshop_16110.html)
+* [Okke van der Wal - Personalization at Uber scale via causal-driven machine learning | PDAMS 2023](https://www.youtube.com/watch?v=c_dOpCvkNc0&t=672s&ab_channel=PyData)
 
 # Events
 
