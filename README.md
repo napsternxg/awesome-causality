@@ -68,6 +68,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [CCD Causal Software suite](https://www.ccd.pitt.edu/tools/)
 * [The TETRAD Project - searching for causal explanations of data](https://github.com/cmu-phil/tetrad)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
+* [Causality Lab - research code of novel causal discovery algorithms developed at Intel Labs](https://github.com/IntelLabs/causality-lab)
 
 # Learning resources
 
