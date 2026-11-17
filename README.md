@@ -42,6 +42,7 @@ These list contain a more focused compilation of algorithms and data related to 
 * [Movie recommendations - Missing not at random (MNAR)](http://www.cs.cornell.edu/~schnabts/mnar/index.html) - [Paper](http://proceedings.mlr.press/v48/schnabel16.html)
 * [CHALEARN Fast Causation Coefficient Challenge](http://www.causality.inf.ethz.ch/cause-effect.php?page=rules) - [Kaggle](https://www.kaggle.com/c/cause-effect-pairs#description)
 * [Causal inference datasets in quantitative social sciences](https://github.com/kosukeimai/qss)
+* [Causal Chambers](https://github.com/juangamella/causal-chamber) - Real measurements from two physical devices (a wind tunnel and a light tunnel), with interventions and a validated ground-truth causal graph - [Paper](https://doi.org/10.1038/s42256-024-00964-x)
 
 # Tools
 * [Omega: Causal, Higher-Order, Probabilistic Programming](http://www.zenna.org/Omega.jl/latest/) <img height="16" width="16" color="blue" src="https://julialang.org/assets/infra/logo.svg" />
